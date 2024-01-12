@@ -20,6 +20,7 @@ We welcome contributions from the community! Whether you're interested in fixing
 To run the project locally, follow the steps outlined in our Installation Guide. Make sure to review the Documentation for more in-depth information on features, architecture, and usage.
 
 #Feedback and Issues:
+
 If you encounter any issues or have suggestions for improvement, please open an Issue. We appreciate your feedback and are committed to making this project better with each contribution.
 
 Thank you for considering our Building Material Shopping Site project! We look forward to your involvement in building a top-notch platform for the construction and DIY community.
